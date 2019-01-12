@@ -15,3 +15,5 @@ Digitaltrends: [VISIT THE TUTORIAL](https://www.digitaltrends.com/gaming/how-to-
 Node.js: [VISIT](https://nodejs.org)
 
 Git For Windows: [VISIT](https://gitforwindows.org)
+
+Discord Permissions Calculator: [VISIT](https://discordapi.com/permissions.html)
