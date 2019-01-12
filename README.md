@@ -7,7 +7,7 @@ Run these node.js commands after the git commands: npm install discord.io winsto
 
 ### How to get the bot running:
 After you cloned the Repository and Runned the node.js commands:
-Edit auth.js's token field to match your discord bot token.
+Edit auth.js's token field to match your discord bot token then run run.bat.
 
 ### Credits:
 Digitaltrends: [VISIT THE TUTORIAL](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/)
