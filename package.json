@@ -1,0 +1,11 @@
+{
+  "name": "Digital Cloud",
+  "version": "b1",
+  "description": "Digital Cloud Bot",
+  "main": "bot.js",
+  "author": "Cloud",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
