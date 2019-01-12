@@ -11,5 +11,7 @@ Edit auth.js's token field to match your discord bot token then run run.bat.
 
 ### Credits:
 Digitaltrends: [VISIT THE TUTORIAL](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/)
+
 Node.js: [VISIT](https://nodejs.org)
-Git: [VISIT](https://gitforwindows.org)
+
+Git For Windows: [VISIT](https://gitforwindows.org)
