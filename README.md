@@ -1,4 +1,6 @@
 # Digital-Cloud
+You can edit the prefix and commands.
+
 
 ### Tutorial on Installing with Node.js/Git
 Run these Git commands first: git clone https://github.com/oofdaooffin/Digital-Cloud
@@ -17,3 +19,9 @@ Node.js: [VISIT](https://nodejs.org)
 Git For Windows: [VISIT](https://gitforwindows.org)
 
 Discord Permissions Calculator: [VISIT](https://discordapi.com/permissions.html)
+
+### Commands:
+ping
+
+### Prefix:
+!
